@@ -1,3 +1,7 @@
+# download package 
+https://go.microsoft.com/fwlink/?LinkID=760868
+
+# Then Install
 sudo apt install ./<file>.deb
 
 # If you're on an older Linux distribution, you will need to run this instead:
